@@ -6,7 +6,7 @@ const  TestingTwo = ()=> {
             {colorArray?.map((index,flag)=>{
                 return(
                     <div style={{height:'100px', width:'100px', backgroundColor:index}}>
-                    helleo {flag}
+                    dcsccdsvcer svcdjv dnse cnsd cns  {flag}
                     </div>
                 )
             })}
