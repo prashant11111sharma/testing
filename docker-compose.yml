@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  nginx:
+    ports:
+      - "8000:80"
+    container_name: paymeee
+    image: paymeee
+
